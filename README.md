@@ -11,6 +11,8 @@ On the login page choose an air purifier and add your wifi and mqtt credentials.
 
 That's all! Now you can see your new fan entity in HA with options to turn on/off or even change speed of the purifier.
 
+![purifier](https://user-images.githubusercontent.com/44551566/227742622-75aa59dd-5e10-47a9-91a0-5de06286ad94.gif)
+
 Tested with Micropython v1.19.1 (ESP8266 with 1MiB flash)
 
 # Prerequisites
