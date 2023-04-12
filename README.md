@@ -13,7 +13,10 @@ That's all! Now you can see your new fan entity in HA with options to turn on/of
 
 ![purifier](https://user-images.githubusercontent.com/44551566/227742622-75aa59dd-5e10-47a9-91a0-5de06286ad94.gif)
 
-Tested with Micropython v1.19.1 (ESP8266 with 1MiB flash)
+Tested with Micropython v1.19.1 (ESP8266 with 1MiB flash) and Home Assistant 2023.03
+
+# TODO
+LED control for Uppåtvind hasn't been implemented yet simply because I ran out of heap memory. Later I try to reorganize and make the code more efficient, reduce memory allocation to solve this issue.
 
 # Prerequisites
 
