@@ -15,6 +15,8 @@ That's all! Now you can see your new fan entity in HA with options to turn on/of
 
 Tested with Micropython v1.19.1 (ESP8266 with 1MiB flash) and Home Assistant 2023.03
 
+Troubleshooting: if the device doesn't open captive portal automatically after flashing the firmware succesfully then try to push the reset button once. In case the device does not connect to wifi after credentials are given then try to unplug the device for a few seconds and plug it again (sometimes wifi connection takes more time)
+
 # TODO
 LED control for Uppåtvind hasn't been implemented yet simply because I ran out of heap memory. Later I try to reorganize and make the code more efficient, reduce memory allocation to solve this issue.
 
