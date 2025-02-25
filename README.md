@@ -25,3 +25,7 @@ Filter LED control for Uppåtvind hasn't been implemented yet
 - [x] Home Assistant with Mosquitto MQTT add-on already installed
 - [x] Förnuftig or Uppåtvind Air Purifiers from IKEA
 - [x] Custom PCB for IKEA Air Purifiers (for more details check esp8266-for-fornuftig and esp8266-for-uppatvind repos)
+
+# Depreciation Notice
+
+This project is no longer maintained and is considered deprecated
